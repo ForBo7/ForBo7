@@ -1,4 +1,4 @@
-📢 Check out my newly launched blog here! [https://forbo7.github.io/ForBlog/](ForBlog) 📢
+📢 Check out my newly launched blog: [ForBlog](https://forbo7.github.io/ForBlog/)! 📢
 
 I'm Salman Naqvi: an approachable, adaptable, open-minded, curious individual who’s been to seventeen countries and lived in three. I’m a science and technology geek, space nerd, and currently dabble in AI. 3D computer graphics is my hobby and learning is my passion.
 
