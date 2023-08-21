@@ -1,4 +1,4 @@
-I’m a curious individual who dabbles in AI, does 3D CG, loves learning, and is a scitech geek and space nerd. I’ve also been to 19 countries.
+I’m a curious individual who does AI, dabbles in 3D CG, loves learning, and is a scitech geek and space nerd. I’ve also been to 18 countries.
 
 Over here you'll find various game dev projects of mine, some miscellaneous projects such as implementing algorithms and creating websites, and my ventures into AI and data analysis.
 
