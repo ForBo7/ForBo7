@@ -1,8 +1,5 @@
-Title: About – Salman Naqvi
+Personal blog: https://snqv.dev/
 
-URL Source: https://snqv.dev/about.html
-
-Markdown Content:
 Building AI systems to make computers, robots, and drones see and understand the world better.
 
 Experience in embodied/spatial systems, distributed LLM training, human-LLM interactions, and diffusion image generation.
