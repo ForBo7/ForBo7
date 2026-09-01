@@ -29,5 +29,3 @@ Has working Chinese fluency and provides a fast learning curve.
 ## CV
 
 [View it here](https://snqv.dev/resources/CV.pdf).
-
-[Back to top](https://snqv.dev/about.html)
